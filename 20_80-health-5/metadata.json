@@ -1,0 +1,8 @@
+
+{
+  "name": "20/80 Health",
+  "description": "A contemporary mental wellbeing mood tracker with glassmorphism design and AI-powered personalized recommendations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
